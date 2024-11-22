@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Go
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+.env
+.DS_Store
