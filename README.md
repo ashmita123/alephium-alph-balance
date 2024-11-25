@@ -26,9 +26,9 @@ npm install
 
 1. **Navigate to the Go directory:**
 
-   ```bash
-   cd alephium-alph-balance/alephium-balance-go
-   ```
+```bash
+cd alephium-alph-balance/alephium-balance-go
+```
 
 2. **Install dependencies:**
 
