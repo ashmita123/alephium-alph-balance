@@ -1,1 +1,0 @@
-export { getAlphBalance } from './alphBalance';
